@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="41px" height="33px" viewBox="0 0 41 33" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>menu</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="7.3885011e-06 -5.68434189e-14 38.3345914 -5.68434189e-14 38.3345914 30.3861563 7.3885011e-06 30.3861563"></polygon>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="heder" transform="translate(-1250.000000, -18.000000)">
+            <g id="menu">
+                <g transform="translate(1250.000000, 19.000000)">
+                    <g id="Group-2">
+                        <g id="Group-5-Copy">
+                            <g id="Group-4">
+                                <g id="Group-3" transform="translate(0.000000, 1.600000)">
+                                    <mask id="mask-2" fill="white">
+                                        <use xlink:href="#path-1"></use>
+                                    </mask>
+                                    <g id="Clip-2"></g>
+                                    <path d="M0.136430239,14.5648458 C-0.219183158,-0.544702523 -0.219183158,0.0597430154 4.52679962,0.361123938 L20.4259613,0.361123938 C23.1549336,0.361123938 30.6298886,0.361123938 33.4775518,0.0597430154 C37.0369011,0.0597430154 37.7491384,-1.14952222 38.1047518,7.31112517 C38.2235345,10.030943 39.1727862,30.5803141 36.0881087,30.2768753 C27.663902,29.3711424 11.4814255,30.2354378 5.1198867,30.2768753 C1.51138909,30.3003535 0.84866756,31.7875215 0.373720191,23.0253996 C0.255213014,21.2115018 0.136430239,18.1906772 0.136430239,14.5648458" id="Fill-1" fill="#FFEFD8" mask="url(#mask-2)"></path>
+                                </g>
+                                <path d="M1.73665558,14.5714795 C1.38043553,-0.544929852 1.38043553,0.0597901578 6.13451471,0.361307934 L22.0607996,0.361307934 C24.7944273,0.361307934 32.2821343,0.361307934 35.1346554,0.0597901578 C38.7000767,0.0597901578 39.4135291,-1.15002419 39.7697492,7.31446508 C39.8887346,10.035518 40.8396056,30.5942203 37.7496658,30.2906437 C29.3110878,29.3844995 13.1010048,30.2491874 6.72861357,30.2906437 C3.11396004,30.3141325 2.45010794,31.8019758 1.97435034,23.0358752 C1.85564099,21.2211537 1.73665558,18.1989574 1.73665558,14.5714795 Z" id="Stroke-1" stroke="#F8A127" stroke-width="0.8"></path>
+                                <g id="bytesize-menu" transform="translate(10.000000, 4.000000)">
+                                    <g id="Icon" transform="translate(2.000000, 4.000000)" stroke="#F8A127" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8">
+                                        <g id="Icon-Group" transform="translate(0.700000, 0.725000)">
+                                            <path d="M0,0.675 L16.2,0.675 M0,6.075 L16.2,6.075 M0,11.475 L16.2,11.475" id="Icon-Shape"></path>
+                                        </g>
+                                    </g>
+                                    <rect id="ViewBox" fill-rule="nonzero" x="0" y="0" width="21.6" height="21.6"></rect>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

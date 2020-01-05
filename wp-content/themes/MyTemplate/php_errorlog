@@ -1,0 +1,8 @@
+[18-Dec-2019 03:26:40 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function wp_mail() in /home/pencilpr/public_html/new-pencil/wp-content/themes/MyTemplate/mail_send.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/pencilpr/public_html/new-pencil/wp-content/themes/MyTemplate/mail_send.php on line 12
+[18-Dec-2019 10:31:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function redirect() in /home/pencilpr/public_html/new-pencil/wp-content/themes/MyTemplate/mail_send.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/pencilpr/public_html/new-pencil/wp-content/themes/MyTemplate/mail_send.php on line 18

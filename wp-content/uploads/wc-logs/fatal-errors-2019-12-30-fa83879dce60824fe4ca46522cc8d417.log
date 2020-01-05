@@ -1,0 +1,163 @@
+2019-12-30T17:23:04+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\myarabibox\wp-includes\Requests\Transport\cURL.php on line 163
+
+2019-12-30T18:46:31+00:00 CRITICAL Uncaught Error: Call to undefined function get_templete_directory_uri() in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\content-product.php:36
+Stack trace:
+#0 C:\xampp\htdocs\myarabibox\wp-includes\template.php(724): require()
+#1 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\wc-core-functions.php(195): load_template('C:\\xampp\\htdocs...', false)
+#2 C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\archive-product.php(70): wc_get_template_part('content', 'product')
+#3 C:\xampp\htdocs\myarabibox\wp-includes\template-loader.php(98): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\myarabibox\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\myarabibox\index.php(17): require('C:\\xampp\\htdocs...')
+#6 {main}
+  thrown in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\content-product.php on line 36
+
+2019-12-30T18:47:14+00:00 CRITICAL Uncaught Error: Call to undefined function get_templete_directory_uri() in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\content-product.php:36
+Stack trace:
+#0 C:\xampp\htdocs\myarabibox\wp-includes\template.php(724): require()
+#1 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\wc-core-functions.php(195): load_template('C:\\xampp\\htdocs...', false)
+#2 C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\archive-product.php(70): wc_get_template_part('content', 'product')
+#3 C:\xampp\htdocs\myarabibox\wp-includes\template-loader.php(98): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\myarabibox\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\myarabibox\index.php(17): require('C:\\xampp\\htdocs...')
+#6 {main}
+  thrown in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\content-product.php on line 36
+
+2019-12-30T19:19:57+00:00 CRITICAL Uncaught Error: Call to a member function add_to_cart_url() on null in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\content-product.php:68
+Stack trace:
+#0 C:\xampp\htdocs\myarabibox\wp-includes\template.php(724): require()
+#1 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\wc-core-functions.php(195): load_template('C:\\xampp\\htdocs...', false)
+#2 C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\archive-product.php(70): wc_get_template_part('content', 'product')
+#3 C:\xampp\htdocs\myarabibox\wp-includes\template-loader.php(98): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\myarabibox\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\myarabibox\index.php(17): require('C:\\xampp\\htdocs...')
+#6 {main}
+  thrown in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\content-product.php on line 68
+
+2019-12-30T20:04:48+00:00 CRITICAL Uncaught Error: Call to a member function add_to_cart_url() on null in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\content-product.php:56
+Stack trace:
+#0 C:\xampp\htdocs\myarabibox\wp-includes\template.php(724): require()
+#1 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\wc-core-functions.php(195): load_template('C:\\xampp\\htdocs...', false)
+#2 C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\archive-product.php(70): wc_get_template_part('content', 'product')
+#3 C:\xampp\htdocs\myarabibox\wp-includes\template-loader.php(98): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\myarabibox\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\myarabibox\index.php(17): require('C:\\xampp\\htdocs...')
+#6 {main}
+  thrown in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\content-product.php on line 56
+
+2019-12-30T20:08:20+00:00 CRITICAL Uncaught Error: Call to a member function add_to_cart_url() on null in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\content-product.php:56
+Stack trace:
+#0 C:\xampp\htdocs\myarabibox\wp-includes\template.php(724): require()
+#1 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\wc-core-functions.php(195): load_template('C:\\xampp\\htdocs...', false)
+#2 C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\archive-product.php(70): wc_get_template_part('content', 'product')
+#3 C:\xampp\htdocs\myarabibox\wp-includes\template-loader.php(98): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\myarabibox\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\myarabibox\index.php(17): require('C:\\xampp\\htdocs...')
+#6 {main}
+  thrown in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\content-product.php on line 56
+
+2019-12-30T20:13:57+00:00 CRITICAL Uncaught Error: Call to a member function the_post() on null in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\content-product.php:33
+Stack trace:
+#0 C:\xampp\htdocs\myarabibox\wp-includes\template.php(724): require()
+#1 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\wc-core-functions.php(195): load_template('C:\\xampp\\htdocs...', false)
+#2 C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\archive-product.php(71): wc_get_template_part('content', 'product')
+#3 C:\xampp\htdocs\myarabibox\wp-includes\template-loader.php(98): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\myarabibox\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\myarabibox\index.php(17): require('C:\\xampp\\htdocs...')
+#6 {main}
+  thrown in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\content-product.php on line 33
+
+2019-12-30T20:14:11+00:00 CRITICAL Uncaught Error: Call to a member function add_to_cart_url() on null in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\content-product.php:56
+Stack trace:
+#0 C:\xampp\htdocs\myarabibox\wp-includes\template.php(724): require()
+#1 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\wc-core-functions.php(195): load_template('C:\\xampp\\htdocs...', false)
+#2 C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\archive-product.php(71): wc_get_template_part('content', 'product')
+#3 C:\xampp\htdocs\myarabibox\wp-includes\template-loader.php(98): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\myarabibox\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\myarabibox\index.php(17): require('C:\\xampp\\htdocs...')
+#6 {main}
+  thrown in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\content-product.php on line 56
+
+2019-12-30T20:24:38+00:00 CRITICAL Uncaught Error: Call to undefined function the_thumbnail() in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\content-single-product.php:92
+Stack trace:
+#0 C:\xampp\htdocs\myarabibox\wp-includes\template.php(724): require()
+#1 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\wc-core-functions.php(195): load_template('C:\\xampp\\htdocs...', false)
+#2 C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\single-product.php(36): wc_get_template_part('content', 'single-product')
+#3 C:\xampp\htdocs\myarabibox\wp-includes\template-loader.php(98): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\myarabibox\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\myarabibox\index.php(17): require('C:\\xampp\\htdocs...')
+#6 {main}
+  thrown in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\content-single-product.php on line 92
+
+2019-12-30T21:25:57+00:00 CRITICAL Uncaught Error: Call to a member function cart_content_count() on null in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\header.php:62
+Stack trace:
+#0 C:\xampp\htdocs\myarabibox\wp-includes\template.php(722): require_once()
+#1 C:\xampp\htdocs\myarabibox\wp-includes\template.php(671): load_template('C:\\xampp\\htdocs...', true)
+#2 C:\xampp\htdocs\myarabibox\wp-includes\general-template.php(41): locate_template(Array, true)
+#3 C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\page-contactus.php(1): get_header()
+#4 C:\xampp\htdocs\myarabibox\wp-includes\template-loader.php(98): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\myarabibox\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\myarabibox\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\header.php on line 62
+
+2019-12-30T21:26:21+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_url() on null in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\header.php:62
+Stack trace:
+#0 C:\xampp\htdocs\myarabibox\wp-includes\template.php(722): require_once()
+#1 C:\xampp\htdocs\myarabibox\wp-includes\template.php(671): load_template('C:\\xampp\\htdocs...', true)
+#2 C:\xampp\htdocs\myarabibox\wp-includes\general-template.php(41): locate_template(Array, true)
+#3 C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\page-contactus.php(1): get_header()
+#4 C:\xampp\htdocs\myarabibox\wp-includes\template-loader.php(98): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\myarabibox\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\myarabibox\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\header.php on line 62
+
+2019-12-30T21:29:42+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_url() on null in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\header.php:62
+Stack trace:
+#0 C:\xampp\htdocs\myarabibox\wp-includes\template.php(722): require_once()
+#1 C:\xampp\htdocs\myarabibox\wp-includes\template.php(671): load_template('C:\\xampp\\htdocs...', true)
+#2 C:\xampp\htdocs\myarabibox\wp-includes\general-template.php(41): locate_template(Array, true)
+#3 C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\page-contactus.php(1): get_header()
+#4 C:\xampp\htdocs\myarabibox\wp-includes\template-loader.php(98): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\myarabibox\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\myarabibox\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\header.php on line 62
+
+2019-12-30T21:35:48+00:00 CRITICAL syntax error, unexpected end of file in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\header.php on line 156
+
+2019-12-30T21:36:24+00:00 CRITICAL Uncaught Error: Call to a member function get_price() on null in C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\wc-product-functions.php:1014
+Stack trace:
+#0 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-cart.php(1855): wc_get_price_excluding_tax(NULL)
+#1 C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\header.php(85): WC_Cart->get_product_price(NULL)
+#2 C:\xampp\htdocs\myarabibox\wp-includes\template.php(722): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\myarabibox\wp-includes\template.php(671): load_template('C:\\xampp\\htdocs...', true)
+#4 C:\xampp\htdocs\myarabibox\wp-includes\general-template.php(41): locate_template(Array, true)
+#5 C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\page-contactus.php(1): get_header()
+#6 C:\xampp\htdocs\myarabibox\wp-includes\template-loader.php(98): include('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\myarabibox\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\myarabibo in C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\wc-product-functions.php on line 1014
+
+2019-12-30T21:36:28+00:00 CRITICAL Uncaught Error: Call to a member function get_price() on null in C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\wc-product-functions.php:1014
+Stack trace:
+#0 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-cart.php(1855): wc_get_price_excluding_tax(NULL)
+#1 C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\header.php(85): WC_Cart->get_product_price(NULL)
+#2 C:\xampp\htdocs\myarabibox\wp-includes\template.php(722): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\myarabibox\wp-includes\template.php(671): load_template('C:\\xampp\\htdocs...', true)
+#4 C:\xampp\htdocs\myarabibox\wp-includes\general-template.php(41): locate_template(Array, true)
+#5 C:\xampp\htdocs\myarabibox\wp-content\plugins\elementor\modules\page-templates\templates\header-footer.php(9): get_header()
+#6 C:\xampp\htdocs\myarabibox\wp-includes\template-loader.php(98): include('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\myarabibox\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs.. in C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\wc-product-functions.php on line 1014
+
+2019-12-30T21:39:22+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Product_Simple::get_image_url() in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\header.php:81
+Stack trace:
+#0 C:\xampp\htdocs\myarabibox\wp-includes\template.php(722): require_once()
+#1 C:\xampp\htdocs\myarabibox\wp-includes\template.php(671): load_template('C:\\xampp\\htdocs...', true)
+#2 C:\xampp\htdocs\myarabibox\wp-includes\general-template.php(41): locate_template(Array, true)
+#3 C:\xampp\htdocs\myarabibox\wp-content\plugins\elementor\modules\page-templates\templates\header-footer.php(9): get_header()
+#4 C:\xampp\htdocs\myarabibox\wp-includes\template-loader.php(98): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\myarabibox\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\myarabibox\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\header.php on line 81
+

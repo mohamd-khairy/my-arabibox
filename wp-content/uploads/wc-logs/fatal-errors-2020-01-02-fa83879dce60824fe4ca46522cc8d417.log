@@ -1,0 +1,25 @@
+2020-01-02T12:26:39+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function plugin_dir_path(), 0 passed in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\footer.php on line 74 and exactly 1 expected in C:\xampp\htdocs\myarabibox\wp-includes\plugin.php:749
+Stack trace:
+#0 C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\footer.php(74): plugin_dir_path()
+#1 C:\xampp\htdocs\myarabibox\wp-includes\template.php(722): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\myarabibox\wp-includes\template.php(671): load_template('C:\\xampp\\htdocs...', true)
+#3 C:\xampp\htdocs\myarabibox\wp-includes\general-template.php(76): locate_template(Array, true)
+#4 C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\front-page.php(170): get_footer()
+#5 C:\xampp\htdocs\myarabibox\wp-includes\template-loader.php(98): include('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\myarabibox\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\myarabibox\index.php(17): require('C:\\xampp\\htdocs...')
+#8 {main}
+ in C:\xampp\htdocs\myarabibox\wp-includes\plugin.php on line 749
+
+2020-01-02T12:27:36+00:00 CRITICAL Uncaught Error: Call to undefined function WPMU_PLUGIN_URL() in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\footer.php:74
+Stack trace:
+#0 C:\xampp\htdocs\myarabibox\wp-includes\template.php(722): require_once()
+#1 C:\xampp\htdocs\myarabibox\wp-includes\template.php(671): load_template('C:\\xampp\\htdocs...', true)
+#2 C:\xampp\htdocs\myarabibox\wp-includes\general-template.php(76): locate_template(Array, true)
+#3 C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\front-page.php(170): get_footer()
+#4 C:\xampp\htdocs\myarabibox\wp-includes\template-loader.php(98): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\myarabibox\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\myarabibox\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\footer.php on line 74
+

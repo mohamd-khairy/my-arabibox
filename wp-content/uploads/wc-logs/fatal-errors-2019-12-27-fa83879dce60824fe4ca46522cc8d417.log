@@ -1,0 +1,26 @@
+2019-12-27T12:54:34+00:00 CRITICAL Uncaught Error: Call to undefined function simpleasy_posted_on() in C:\xampp\htdocs\myarabibox\wp-content\themes\simpleasy\components\post\content-meta.php:2
+Stack trace:
+#0 C:\xampp\htdocs\myarabibox\wp-includes\template.php(724): require()
+#1 C:\xampp\htdocs\myarabibox\wp-includes\template.php(671): load_template('C:\\xampp\\htdocs...', false)
+#2 C:\xampp\htdocs\myarabibox\wp-includes\general-template.php(168): locate_template(Array, true, false)
+#3 C:\xampp\htdocs\myarabibox\wp-content\themes\simpleasy\components\post\content.php(34): get_template_part('components/post...', 'meta')
+#4 C:\xampp\htdocs\myarabibox\wp-includes\template.php(724): require('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\myarabibox\wp-includes\template.php(671): load_template('C:\\xampp\\htdocs...', false)
+#6 C:\xampp\htdocs\myarabibox\wp-includes\general-template.php(168): locate_template(Array, true, false)
+#7 C:\xampp\htdocs\myarabibox\wp-content\themes\simpleasy\single.php(39): get_template_part('components/post...', '')
+#8 C:\xamp in C:\xampp\htdocs\myarabibox\wp-content\themes\simpleasy\components\post\content-meta.php on line 2
+
+2019-12-27T13:03:21+00:00 CRITICAL Uncaught Error: Call to undefined function simpleasy_posted_on() in C:\xampp\htdocs\myarabibox\wp-content\themes\simpleasy\components\post\content-meta.php:2
+Stack trace:
+#0 C:\xampp\htdocs\myarabibox\wp-includes\template.php(724): require()
+#1 C:\xampp\htdocs\myarabibox\wp-includes\template.php(671): load_template('C:\\xampp\\htdocs...', false)
+#2 C:\xampp\htdocs\myarabibox\wp-includes\general-template.php(168): locate_template(Array, true, false)
+#3 C:\xampp\htdocs\myarabibox\wp-content\themes\simpleasy\components\post\content.php(34): get_template_part('components/post...', 'meta')
+#4 C:\xampp\htdocs\myarabibox\wp-includes\template.php(724): require('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\myarabibox\wp-includes\template.php(671): load_template('C:\\xampp\\htdocs...', false)
+#6 C:\xampp\htdocs\myarabibox\wp-includes\general-template.php(168): locate_template(Array, true, false)
+#7 C:\xampp\htdocs\myarabibox\wp-content\themes\simpleasy\single.php(39): get_template_part('components/post...', '')
+#8 C:\xamp in C:\xampp\htdocs\myarabibox\wp-content\themes\simpleasy\components\post\content-meta.php on line 2
+
+2019-12-27T13:03:44+00:00 CRITICAL require(): Failed opening required 'C:\xampp\htdocs\myarabibox/wp-content/themes/simpleasy/inc/custom-header.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\myarabibox\wp-content\themes\simpleasy\functions.php on line 117
+

@@ -1,0 +1,51 @@
+2019-12-31T08:50:10+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\myarabibox\wp-includes\Requests\Transport\cURL.php on line 163
+
+2019-12-31T14:31:24+00:00 CRITICAL Uncaught Error: Call to undefined function redirect() in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\functions.php:103
+Stack trace:
+#0 C:\xampp\htdocs\myarabibox\wp-includes\shortcodes.php(325): bbloomer_separate_registration_form('', '', 'wc_reg_form_bbl...')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 C:\xampp\htdocs\myarabibox\wp-includes\shortcodes.php(199): preg_replace_callback('/\\[(\\[?)(wc_reg...', 'do_shortcode_ta...', '[wc_reg_form_bb...')
+#3 C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\page-register.php(3): do_shortcode('[wc_reg_form_bb...')
+#4 C:\xampp\htdocs\myarabibox\wp-includes\template-loader.php(98): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\myarabibox\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\myarabibox\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\functions.php on line 103
+
+2019-12-31T17:52:45+00:00 CRITICAL Uncaught Error: Call to undefined function wc_login_url() in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\header.php:140
+Stack trace:
+#0 C:\xampp\htdocs\myarabibox\wp-includes\template.php(722): require_once()
+#1 C:\xampp\htdocs\myarabibox\wp-includes\template.php(671): load_template('C:\\xampp\\htdocs...', true)
+#2 C:\xampp\htdocs\myarabibox\wp-includes\general-template.php(41): locate_template(Array, true)
+#3 C:\xampp\htdocs\myarabibox\wp-content\plugins\elementor\modules\page-templates\templates\header-footer.php(9): get_header()
+#4 C:\xampp\htdocs\myarabibox\wp-includes\template-loader.php(98): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\myarabibox\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\myarabibox\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\header.php on line 140
+
+2019-12-31T20:09:46+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function apply_filters(), 1 passed in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\form-checkout.php on line 22 and exactly 2 expected in C:\xampp\htdocs\myarabibox\wp-includes\plugin.php:181
+Stack trace:
+#0 C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\form-checkout.php(22): apply_filters('woocommerce_che...')
+#1 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(285): wc_get_template('checkout/form-c...', Array)
+#3 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(67): WC_Shortcode_Checkout::checkout()
+#4 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#5 C:\xampp\htdocs\ in C:\xampp\htdocs\myarabibox\wp-includes\plugin.php on line 181
+
+2019-12-31T20:10:16+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wc_print_notice(), 0 passed in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\form-checkout.php on line 22 and at least 1 expected in C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\wc-notice-functions.php:163
+Stack trace:
+#0 C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\form-checkout.php(22): wc_print_notice()
+#1 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(285): wc_get_template('checkout/form-c...', Array)
+#3 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(67): WC_Shortcode_Checkout::checkout()
+#4 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::outp in C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\wc-notice-functions.php on line 163
+
+2019-12-31T20:10:28+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wc_print_notice(), 0 passed in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\form-checkout.php on line 22 and at least 1 expected in C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\wc-notice-functions.php:163
+Stack trace:
+#0 C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\form-checkout.php(22): wc_print_notice()
+#1 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(285): wc_get_template('checkout/form-c...', Array)
+#3 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(67): WC_Shortcode_Checkout::checkout()
+#4 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::outp in C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\wc-notice-functions.php on line 163
+

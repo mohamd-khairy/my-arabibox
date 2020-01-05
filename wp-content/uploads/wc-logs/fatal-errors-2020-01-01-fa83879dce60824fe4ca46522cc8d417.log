@@ -1,0 +1,1120 @@
+2020-01-01T12:55:07+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php:99
+Stack trace:
+#0 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(248): wc_get_template('checkout/thanky...', Array)
+#2 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(63): WC_Shortcode_Checkout::order_received(178)
+#3 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 C:\xampp\htdocs\myarabibox\wp-includes\shortcodes.php(325): WC_Shortcodes::checkout('', '', 'woocommerce_che...')
+#6 [internal function]: do_sho in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php on line 99
+
+2020-01-01T12:55:07+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php:99
+Stack trace:
+#0 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(248): wc_get_template('checkout/thanky...', Array)
+#2 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(63): WC_Shortcode_Checkout::order_received(178)
+#3 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 C:\xampp\htdocs\myarabibox\wp-includes\shortcodes.php(325): WC_Shortcodes::checkout('', '', 'woocommerce_che...')
+#6 [internal function]: do_sho in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php on line 99
+
+2020-01-01T12:55:07+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php:99
+Stack trace:
+#0 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(248): wc_get_template('checkout/thanky...', Array)
+#2 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(63): WC_Shortcode_Checkout::order_received(178)
+#3 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 C:\xampp\htdocs\myarabibox\wp-includes\shortcodes.php(325): WC_Shortcodes::checkout('', '', 'woocommerce_che...')
+#6 [internal function]: do_sho in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php on line 99
+
+2020-01-01T12:55:07+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php:99
+Stack trace:
+#0 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(248): wc_get_template('checkout/thanky...', Array)
+#2 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(63): WC_Shortcode_Checkout::order_received(178)
+#3 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 C:\xampp\htdocs\myarabibox\wp-includes\shortcodes.php(325): WC_Shortcodes::checkout('', '', 'woocommerce_che...')
+#6 [internal function]: do_sho in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php on line 99
+
+2020-01-01T12:55:07+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php:99
+Stack trace:
+#0 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(248): wc_get_template('checkout/thanky...', Array)
+#2 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(63): WC_Shortcode_Checkout::order_received(178)
+#3 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 C:\xampp\htdocs\myarabibox\wp-includes\shortcodes.php(325): WC_Shortcodes::checkout('', '', 'woocommerce_che...')
+#6 [internal function]: do_sho in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php on line 99
+
+2020-01-01T12:55:07+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php:99
+Stack trace:
+#0 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(248): wc_get_template('checkout/thanky...', Array)
+#2 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(63): WC_Shortcode_Checkout::order_received(178)
+#3 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 C:\xampp\htdocs\myarabibox\wp-includes\shortcodes.php(325): WC_Shortcodes::checkout('', '', 'woocommerce_che...')
+#6 [internal function]: do_sho in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php on line 99
+
+2020-01-01T12:55:09+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php:99
+Stack trace:
+#0 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(248): wc_get_template('checkout/thanky...', Array)
+#2 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(63): WC_Shortcode_Checkout::order_received(178)
+#3 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 C:\xampp\htdocs\myarabibox\wp-includes\shortcodes.php(325): WC_Shortcodes::checkout('', '', 'woocommerce_che...')
+#6 [internal function]: do_sho in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php on line 99
+
+2020-01-01T12:55:34+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php:98
+Stack trace:
+#0 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(248): wc_get_template('checkout/thanky...', Array)
+#2 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(63): WC_Shortcode_Checkout::order_received(178)
+#3 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 C:\xampp\htdocs\myarabibox\wp-includes\shortcodes.php(325): WC_Shortcodes::checkout('', '', 'woocommerce_che...')
+#6 [internal function]: do_sho in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php on line 98
+
+2020-01-01T12:55:34+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php:98
+Stack trace:
+#0 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(248): wc_get_template('checkout/thanky...', Array)
+#2 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(63): WC_Shortcode_Checkout::order_received(178)
+#3 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 C:\xampp\htdocs\myarabibox\wp-includes\shortcodes.php(325): WC_Shortcodes::checkout('', '', 'woocommerce_che...')
+#6 [internal function]: do_sho in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php on line 98
+
+2020-01-01T12:55:34+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php:98
+Stack trace:
+#0 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(248): wc_get_template('checkout/thanky...', Array)
+#2 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(63): WC_Shortcode_Checkout::order_received(178)
+#3 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 C:\xampp\htdocs\myarabibox\wp-includes\shortcodes.php(325): WC_Shortcodes::checkout('', '', 'woocommerce_che...')
+#6 [internal function]: do_sho in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php on line 98
+
+2020-01-01T12:55:34+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php:98
+Stack trace:
+#0 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(248): wc_get_template('checkout/thanky...', Array)
+#2 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(63): WC_Shortcode_Checkout::order_received(178)
+#3 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 C:\xampp\htdocs\myarabibox\wp-includes\shortcodes.php(325): WC_Shortcodes::checkout('', '', 'woocommerce_che...')
+#6 [internal function]: do_sho in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php on line 98
+
+2020-01-01T12:55:34+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php:98
+Stack trace:
+#0 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(248): wc_get_template('checkout/thanky...', Array)
+#2 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(63): WC_Shortcode_Checkout::order_received(178)
+#3 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 C:\xampp\htdocs\myarabibox\wp-includes\shortcodes.php(325): WC_Shortcodes::checkout('', '', 'woocommerce_che...')
+#6 [internal function]: do_sho in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php on line 98
+
+2020-01-01T12:55:34+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php:98
+Stack trace:
+#0 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(248): wc_get_template('checkout/thanky...', Array)
+#2 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(63): WC_Shortcode_Checkout::order_received(178)
+#3 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 C:\xampp\htdocs\myarabibox\wp-includes\shortcodes.php(325): WC_Shortcodes::checkout('', '', 'woocommerce_che...')
+#6 [internal function]: do_sho in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php on line 98
+
+2020-01-01T12:55:35+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php:98
+Stack trace:
+#0 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(248): wc_get_template('checkout/thanky...', Array)
+#2 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(63): WC_Shortcode_Checkout::order_received(178)
+#3 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 C:\xampp\htdocs\myarabibox\wp-includes\shortcodes.php(325): WC_Shortcodes::checkout('', '', 'woocommerce_che...')
+#6 [internal function]: do_sho in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php on line 98
+
+2020-01-01T12:55:58+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php:98
+Stack trace:
+#0 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(248): wc_get_template('checkout/thanky...', Array)
+#2 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(63): WC_Shortcode_Checkout::order_received(178)
+#3 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 C:\xampp\htdocs\myarabibox\wp-includes\shortcodes.php(325): WC_Shortcodes::checkout('', '', 'woocommerce_che...')
+#6 [internal function]: do_sho in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php on line 98
+
+2020-01-01T12:55:58+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php:98
+Stack trace:
+#0 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(248): wc_get_template('checkout/thanky...', Array)
+#2 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(63): WC_Shortcode_Checkout::order_received(178)
+#3 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 C:\xampp\htdocs\myarabibox\wp-includes\shortcodes.php(325): WC_Shortcodes::checkout('', '', 'woocommerce_che...')
+#6 [internal function]: do_sho in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php on line 98
+
+2020-01-01T12:55:58+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php:98
+Stack trace:
+#0 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(248): wc_get_template('checkout/thanky...', Array)
+#2 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(63): WC_Shortcode_Checkout::order_received(178)
+#3 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 C:\xampp\htdocs\myarabibox\wp-includes\shortcodes.php(325): WC_Shortcodes::checkout('', '', 'woocommerce_che...')
+#6 [internal function]: do_sho in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php on line 98
+
+2020-01-01T12:55:58+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php:98
+Stack trace:
+#0 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(248): wc_get_template('checkout/thanky...', Array)
+#2 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(63): WC_Shortcode_Checkout::order_received(178)
+#3 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 C:\xampp\htdocs\myarabibox\wp-includes\shortcodes.php(325): WC_Shortcodes::checkout('', '', 'woocommerce_che...')
+#6 [internal function]: do_sho in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php on line 98
+
+2020-01-01T12:55:58+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php:98
+Stack trace:
+#0 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(248): wc_get_template('checkout/thanky...', Array)
+#2 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(63): WC_Shortcode_Checkout::order_received(178)
+#3 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 C:\xampp\htdocs\myarabibox\wp-includes\shortcodes.php(325): WC_Shortcodes::checkout('', '', 'woocommerce_che...')
+#6 [internal function]: do_sho in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php on line 98
+
+2020-01-01T12:55:58+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php:98
+Stack trace:
+#0 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(248): wc_get_template('checkout/thanky...', Array)
+#2 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(63): WC_Shortcode_Checkout::order_received(178)
+#3 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 C:\xampp\htdocs\myarabibox\wp-includes\shortcodes.php(325): WC_Shortcodes::checkout('', '', 'woocommerce_che...')
+#6 [internal function]: do_sho in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php on line 98
+
+2020-01-01T12:55:59+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php:98
+Stack trace:
+#0 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(248): wc_get_template('checkout/thanky...', Array)
+#2 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(63): WC_Shortcode_Checkout::order_received(178)
+#3 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 C:\xampp\htdocs\myarabibox\wp-includes\shortcodes.php(325): WC_Shortcodes::checkout('', '', 'woocommerce_che...')
+#6 [internal function]: do_sho in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php on line 98
+
+2020-01-01T12:56:17+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php:99
+Stack trace:
+#0 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(248): wc_get_template('checkout/thanky...', Array)
+#2 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(63): WC_Shortcode_Checkout::order_received(178)
+#3 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 C:\xampp\htdocs\myarabibox\wp-includes\shortcodes.php(325): WC_Shortcodes::checkout('', '', 'woocommerce_che...')
+#6 [internal function]: do_sho in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php on line 99
+
+2020-01-01T12:56:17+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php:99
+Stack trace:
+#0 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(248): wc_get_template('checkout/thanky...', Array)
+#2 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(63): WC_Shortcode_Checkout::order_received(178)
+#3 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 C:\xampp\htdocs\myarabibox\wp-includes\shortcodes.php(325): WC_Shortcodes::checkout('', '', 'woocommerce_che...')
+#6 [internal function]: do_sho in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php on line 99
+
+2020-01-01T12:56:17+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php:99
+Stack trace:
+#0 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(248): wc_get_template('checkout/thanky...', Array)
+#2 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(63): WC_Shortcode_Checkout::order_received(178)
+#3 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 C:\xampp\htdocs\myarabibox\wp-includes\shortcodes.php(325): WC_Shortcodes::checkout('', '', 'woocommerce_che...')
+#6 [internal function]: do_sho in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php on line 99
+
+2020-01-01T12:56:17+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php:99
+Stack trace:
+#0 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(248): wc_get_template('checkout/thanky...', Array)
+#2 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(63): WC_Shortcode_Checkout::order_received(178)
+#3 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 C:\xampp\htdocs\myarabibox\wp-includes\shortcodes.php(325): WC_Shortcodes::checkout('', '', 'woocommerce_che...')
+#6 [internal function]: do_sho in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php on line 99
+
+2020-01-01T12:56:17+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php:99
+Stack trace:
+#0 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(248): wc_get_template('checkout/thanky...', Array)
+#2 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(63): WC_Shortcode_Checkout::order_received(178)
+#3 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 C:\xampp\htdocs\myarabibox\wp-includes\shortcodes.php(325): WC_Shortcodes::checkout('', '', 'woocommerce_che...')
+#6 [internal function]: do_sho in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php on line 99
+
+2020-01-01T12:56:17+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php:99
+Stack trace:
+#0 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(248): wc_get_template('checkout/thanky...', Array)
+#2 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(63): WC_Shortcode_Checkout::order_received(178)
+#3 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 C:\xampp\htdocs\myarabibox\wp-includes\shortcodes.php(325): WC_Shortcodes::checkout('', '', 'woocommerce_che...')
+#6 [internal function]: do_sho in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php on line 99
+
+2020-01-01T12:56:19+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php:99
+Stack trace:
+#0 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(248): wc_get_template('checkout/thanky...', Array)
+#2 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(63): WC_Shortcode_Checkout::order_received(178)
+#3 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 C:\xampp\htdocs\myarabibox\wp-includes\shortcodes.php(325): WC_Shortcodes::checkout('', '', 'woocommerce_che...')
+#6 [internal function]: do_sho in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php on line 99
+
+2020-01-01T12:56:39+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php:99
+Stack trace:
+#0 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(248): wc_get_template('checkout/thanky...', Array)
+#2 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(63): WC_Shortcode_Checkout::order_received(178)
+#3 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 C:\xampp\htdocs\myarabibox\wp-includes\shortcodes.php(325): WC_Shortcodes::checkout('', '', 'woocommerce_che...')
+#6 [internal function]: do_sho in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php on line 99
+
+2020-01-01T12:56:39+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php:99
+Stack trace:
+#0 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(248): wc_get_template('checkout/thanky...', Array)
+#2 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(63): WC_Shortcode_Checkout::order_received(178)
+#3 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 C:\xampp\htdocs\myarabibox\wp-includes\shortcodes.php(325): WC_Shortcodes::checkout('', '', 'woocommerce_che...')
+#6 [internal function]: do_sho in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php on line 99
+
+2020-01-01T12:56:39+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php:99
+Stack trace:
+#0 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(248): wc_get_template('checkout/thanky...', Array)
+#2 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(63): WC_Shortcode_Checkout::order_received(178)
+#3 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 C:\xampp\htdocs\myarabibox\wp-includes\shortcodes.php(325): WC_Shortcodes::checkout('', '', 'woocommerce_che...')
+#6 [internal function]: do_sho in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php on line 99
+
+2020-01-01T12:56:39+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php:99
+Stack trace:
+#0 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(248): wc_get_template('checkout/thanky...', Array)
+#2 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(63): WC_Shortcode_Checkout::order_received(178)
+#3 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 C:\xampp\htdocs\myarabibox\wp-includes\shortcodes.php(325): WC_Shortcodes::checkout('', '', 'woocommerce_che...')
+#6 [internal function]: do_sho in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php on line 99
+
+2020-01-01T12:56:39+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php:99
+Stack trace:
+#0 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(248): wc_get_template('checkout/thanky...', Array)
+#2 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(63): WC_Shortcode_Checkout::order_received(178)
+#3 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 C:\xampp\htdocs\myarabibox\wp-includes\shortcodes.php(325): WC_Shortcodes::checkout('', '', 'woocommerce_che...')
+#6 [internal function]: do_sho in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php on line 99
+
+2020-01-01T12:56:40+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php:99
+Stack trace:
+#0 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(248): wc_get_template('checkout/thanky...', Array)
+#2 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(63): WC_Shortcode_Checkout::order_received(178)
+#3 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 C:\xampp\htdocs\myarabibox\wp-includes\shortcodes.php(325): WC_Shortcodes::checkout('', '', 'woocommerce_che...')
+#6 [internal function]: do_sho in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php on line 99
+
+2020-01-01T12:56:40+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php:99
+Stack trace:
+#0 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(248): wc_get_template('checkout/thanky...', Array)
+#2 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(63): WC_Shortcode_Checkout::order_received(178)
+#3 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 C:\xampp\htdocs\myarabibox\wp-includes\shortcodes.php(325): WC_Shortcodes::checkout('', '', 'woocommerce_che...')
+#6 [internal function]: do_sho in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php on line 99
+
+2020-01-01T12:57:09+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php:99
+Stack trace:
+#0 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(248): wc_get_template('checkout/thanky...', Array)
+#2 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(63): WC_Shortcode_Checkout::order_received(178)
+#3 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 C:\xampp\htdocs\myarabibox\wp-includes\shortcodes.php(325): WC_Shortcodes::checkout('', '', 'woocommerce_che...')
+#6 [internal function]: do_sho in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php on line 99
+
+2020-01-01T12:57:09+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php:99
+Stack trace:
+#0 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(248): wc_get_template('checkout/thanky...', Array)
+#2 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(63): WC_Shortcode_Checkout::order_received(178)
+#3 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 C:\xampp\htdocs\myarabibox\wp-includes\shortcodes.php(325): WC_Shortcodes::checkout('', '', 'woocommerce_che...')
+#6 [internal function]: do_sho in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php on line 99
+
+2020-01-01T12:57:09+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php:99
+Stack trace:
+#0 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(248): wc_get_template('checkout/thanky...', Array)
+#2 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(63): WC_Shortcode_Checkout::order_received(178)
+#3 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 C:\xampp\htdocs\myarabibox\wp-includes\shortcodes.php(325): WC_Shortcodes::checkout('', '', 'woocommerce_che...')
+#6 [internal function]: do_sho in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php on line 99
+
+2020-01-01T12:57:09+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php:99
+Stack trace:
+#0 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(248): wc_get_template('checkout/thanky...', Array)
+#2 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(63): WC_Shortcode_Checkout::order_received(178)
+#3 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 C:\xampp\htdocs\myarabibox\wp-includes\shortcodes.php(325): WC_Shortcodes::checkout('', '', 'woocommerce_che...')
+#6 [internal function]: do_sho in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php on line 99
+
+2020-01-01T12:57:09+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php:99
+Stack trace:
+#0 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(248): wc_get_template('checkout/thanky...', Array)
+#2 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(63): WC_Shortcode_Checkout::order_received(178)
+#3 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 C:\xampp\htdocs\myarabibox\wp-includes\shortcodes.php(325): WC_Shortcodes::checkout('', '', 'woocommerce_che...')
+#6 [internal function]: do_sho in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php on line 99
+
+2020-01-01T12:57:11+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php:99
+Stack trace:
+#0 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(248): wc_get_template('checkout/thanky...', Array)
+#2 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(63): WC_Shortcode_Checkout::order_received(178)
+#3 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 C:\xampp\htdocs\myarabibox\wp-includes\shortcodes.php(325): WC_Shortcodes::checkout('', '', 'woocommerce_che...')
+#6 [internal function]: do_sho in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php on line 99
+
+2020-01-01T12:58:03+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php:98
+Stack trace:
+#0 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(248): wc_get_template('checkout/thanky...', Array)
+#2 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(63): WC_Shortcode_Checkout::order_received(178)
+#3 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 C:\xampp\htdocs\myarabibox\wp-includes\shortcodes.php(325): WC_Shortcodes::checkout('', '', 'woocommerce_che...')
+#6 [internal function]: do_sho in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php on line 98
+
+2020-01-01T12:58:03+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php:98
+Stack trace:
+#0 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(248): wc_get_template('checkout/thanky...', Array)
+#2 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(63): WC_Shortcode_Checkout::order_received(178)
+#3 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 C:\xampp\htdocs\myarabibox\wp-includes\shortcodes.php(325): WC_Shortcodes::checkout('', '', 'woocommerce_che...')
+#6 [internal function]: do_sho in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php on line 98
+
+2020-01-01T12:58:03+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php:98
+Stack trace:
+#0 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(248): wc_get_template('checkout/thanky...', Array)
+#2 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(63): WC_Shortcode_Checkout::order_received(178)
+#3 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 C:\xampp\htdocs\myarabibox\wp-includes\shortcodes.php(325): WC_Shortcodes::checkout('', '', 'woocommerce_che...')
+#6 [internal function]: do_sho in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php on line 98
+
+2020-01-01T12:58:03+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php:98
+Stack trace:
+#0 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(248): wc_get_template('checkout/thanky...', Array)
+#2 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(63): WC_Shortcode_Checkout::order_received(178)
+#3 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 C:\xampp\htdocs\myarabibox\wp-includes\shortcodes.php(325): WC_Shortcodes::checkout('', '', 'woocommerce_che...')
+#6 [internal function]: do_sho in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php on line 98
+
+2020-01-01T12:58:03+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php:98
+Stack trace:
+#0 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(248): wc_get_template('checkout/thanky...', Array)
+#2 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(63): WC_Shortcode_Checkout::order_received(178)
+#3 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 C:\xampp\htdocs\myarabibox\wp-includes\shortcodes.php(325): WC_Shortcodes::checkout('', '', 'woocommerce_che...')
+#6 [internal function]: do_sho in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php on line 98
+
+2020-01-01T12:58:03+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php:98
+Stack trace:
+#0 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(248): wc_get_template('checkout/thanky...', Array)
+#2 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(63): WC_Shortcode_Checkout::order_received(178)
+#3 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 C:\xampp\htdocs\myarabibox\wp-includes\shortcodes.php(325): WC_Shortcodes::checkout('', '', 'woocommerce_che...')
+#6 [internal function]: do_sho in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php on line 98
+
+2020-01-01T12:58:05+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php:98
+Stack trace:
+#0 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(248): wc_get_template('checkout/thanky...', Array)
+#2 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(63): WC_Shortcode_Checkout::order_received(178)
+#3 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 C:\xampp\htdocs\myarabibox\wp-includes\shortcodes.php(325): WC_Shortcodes::checkout('', '', 'woocommerce_che...')
+#6 [internal function]: do_sho in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php on line 98
+
+2020-01-01T12:58:23+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php:98
+Stack trace:
+#0 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(248): wc_get_template('checkout/thanky...', Array)
+#2 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(63): WC_Shortcode_Checkout::order_received(178)
+#3 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 C:\xampp\htdocs\myarabibox\wp-includes\shortcodes.php(325): WC_Shortcodes::checkout('', '', 'woocommerce_che...')
+#6 [internal function]: do_sho in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php on line 98
+
+2020-01-01T12:58:23+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php:98
+Stack trace:
+#0 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(248): wc_get_template('checkout/thanky...', Array)
+#2 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(63): WC_Shortcode_Checkout::order_received(178)
+#3 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 C:\xampp\htdocs\myarabibox\wp-includes\shortcodes.php(325): WC_Shortcodes::checkout('', '', 'woocommerce_che...')
+#6 [internal function]: do_sho in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php on line 98
+
+2020-01-01T12:58:23+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php:98
+Stack trace:
+#0 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(248): wc_get_template('checkout/thanky...', Array)
+#2 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(63): WC_Shortcode_Checkout::order_received(178)
+#3 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 C:\xampp\htdocs\myarabibox\wp-includes\shortcodes.php(325): WC_Shortcodes::checkout('', '', 'woocommerce_che...')
+#6 [internal function]: do_sho in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php on line 98
+
+2020-01-01T12:58:23+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php:98
+Stack trace:
+#0 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(248): wc_get_template('checkout/thanky...', Array)
+#2 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(63): WC_Shortcode_Checkout::order_received(178)
+#3 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 C:\xampp\htdocs\myarabibox\wp-includes\shortcodes.php(325): WC_Shortcodes::checkout('', '', 'woocommerce_che...')
+#6 [internal function]: do_sho in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php on line 98
+
+2020-01-01T12:58:23+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php:98
+Stack trace:
+#0 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(248): wc_get_template('checkout/thanky...', Array)
+#2 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(63): WC_Shortcode_Checkout::order_received(178)
+#3 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 C:\xampp\htdocs\myarabibox\wp-includes\shortcodes.php(325): WC_Shortcodes::checkout('', '', 'woocommerce_che...')
+#6 [internal function]: do_sho in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php on line 98
+
+2020-01-01T12:58:23+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php:98
+Stack trace:
+#0 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(248): wc_get_template('checkout/thanky...', Array)
+#2 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(63): WC_Shortcode_Checkout::order_received(178)
+#3 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 C:\xampp\htdocs\myarabibox\wp-includes\shortcodes.php(325): WC_Shortcodes::checkout('', '', 'woocommerce_che...')
+#6 [internal function]: do_sho in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php on line 98
+
+2020-01-01T12:58:24+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php:98
+Stack trace:
+#0 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(248): wc_get_template('checkout/thanky...', Array)
+#2 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(63): WC_Shortcode_Checkout::order_received(178)
+#3 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 C:\xampp\htdocs\myarabibox\wp-includes\shortcodes.php(325): WC_Shortcodes::checkout('', '', 'woocommerce_che...')
+#6 [internal function]: do_sho in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php on line 98
+
+2020-01-01T12:59:25+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php:98
+Stack trace:
+#0 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(248): wc_get_template('checkout/thanky...', Array)
+#2 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(63): WC_Shortcode_Checkout::order_received(178)
+#3 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 C:\xampp\htdocs\myarabibox\wp-includes\shortcodes.php(325): WC_Shortcodes::checkout('', '', 'woocommerce_che...')
+#6 [internal function]: do_sho in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php on line 98
+
+2020-01-01T12:59:25+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php:98
+Stack trace:
+#0 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(248): wc_get_template('checkout/thanky...', Array)
+#2 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(63): WC_Shortcode_Checkout::order_received(178)
+#3 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 C:\xampp\htdocs\myarabibox\wp-includes\shortcodes.php(325): WC_Shortcodes::checkout('', '', 'woocommerce_che...')
+#6 [internal function]: do_sho in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php on line 98
+
+2020-01-01T12:59:25+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php:98
+Stack trace:
+#0 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(248): wc_get_template('checkout/thanky...', Array)
+#2 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(63): WC_Shortcode_Checkout::order_received(178)
+#3 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 C:\xampp\htdocs\myarabibox\wp-includes\shortcodes.php(325): WC_Shortcodes::checkout('', '', 'woocommerce_che...')
+#6 [internal function]: do_sho in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php on line 98
+
+2020-01-01T12:59:25+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php:98
+Stack trace:
+#0 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(248): wc_get_template('checkout/thanky...', Array)
+#2 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(63): WC_Shortcode_Checkout::order_received(178)
+#3 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 C:\xampp\htdocs\myarabibox\wp-includes\shortcodes.php(325): WC_Shortcodes::checkout('', '', 'woocommerce_che...')
+#6 [internal function]: do_sho in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php on line 98
+
+2020-01-01T12:59:25+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php:98
+Stack trace:
+#0 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(248): wc_get_template('checkout/thanky...', Array)
+#2 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(63): WC_Shortcode_Checkout::order_received(178)
+#3 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 C:\xampp\htdocs\myarabibox\wp-includes\shortcodes.php(325): WC_Shortcodes::checkout('', '', 'woocommerce_che...')
+#6 [internal function]: do_sho in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php on line 98
+
+2020-01-01T12:59:27+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php:98
+Stack trace:
+#0 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(248): wc_get_template('checkout/thanky...', Array)
+#2 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(63): WC_Shortcode_Checkout::order_received(178)
+#3 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 C:\xampp\htdocs\myarabibox\wp-includes\shortcodes.php(325): WC_Shortcodes::checkout('', '', 'woocommerce_che...')
+#6 [internal function]: do_sho in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php on line 98
+
+2020-01-01T13:02:55+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php:98
+Stack trace:
+#0 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(248): wc_get_template('checkout/thanky...', Array)
+#2 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(63): WC_Shortcode_Checkout::order_received(178)
+#3 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 C:\xampp\htdocs\myarabibox\wp-includes\shortcodes.php(325): WC_Shortcodes::checkout('', '', 'woocommerce_che...')
+#6 [internal function]: do_sho in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php on line 98
+
+2020-01-01T13:02:55+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php:98
+Stack trace:
+#0 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(248): wc_get_template('checkout/thanky...', Array)
+#2 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(63): WC_Shortcode_Checkout::order_received(178)
+#3 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 C:\xampp\htdocs\myarabibox\wp-includes\shortcodes.php(325): WC_Shortcodes::checkout('', '', 'woocommerce_che...')
+#6 [internal function]: do_sho in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php on line 98
+
+2020-01-01T13:02:55+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php:98
+Stack trace:
+#0 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(248): wc_get_template('checkout/thanky...', Array)
+#2 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(63): WC_Shortcode_Checkout::order_received(178)
+#3 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 C:\xampp\htdocs\myarabibox\wp-includes\shortcodes.php(325): WC_Shortcodes::checkout('', '', 'woocommerce_che...')
+#6 [internal function]: do_sho in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php on line 98
+
+2020-01-01T13:02:55+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php:98
+Stack trace:
+#0 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(248): wc_get_template('checkout/thanky...', Array)
+#2 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(63): WC_Shortcode_Checkout::order_received(178)
+#3 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 C:\xampp\htdocs\myarabibox\wp-includes\shortcodes.php(325): WC_Shortcodes::checkout('', '', 'woocommerce_che...')
+#6 [internal function]: do_sho in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php on line 98
+
+2020-01-01T13:02:55+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php:98
+Stack trace:
+#0 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(248): wc_get_template('checkout/thanky...', Array)
+#2 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(63): WC_Shortcode_Checkout::order_received(178)
+#3 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 C:\xampp\htdocs\myarabibox\wp-includes\shortcodes.php(325): WC_Shortcodes::checkout('', '', 'woocommerce_che...')
+#6 [internal function]: do_sho in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php on line 98
+
+2020-01-01T13:02:55+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php:98
+Stack trace:
+#0 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(248): wc_get_template('checkout/thanky...', Array)
+#2 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(63): WC_Shortcode_Checkout::order_received(178)
+#3 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 C:\xampp\htdocs\myarabibox\wp-includes\shortcodes.php(325): WC_Shortcodes::checkout('', '', 'woocommerce_che...')
+#6 [internal function]: do_sho in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php on line 98
+
+2020-01-01T13:02:57+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php:98
+Stack trace:
+#0 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(248): wc_get_template('checkout/thanky...', Array)
+#2 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(63): WC_Shortcode_Checkout::order_received(178)
+#3 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 C:\xampp\htdocs\myarabibox\wp-includes\shortcodes.php(325): WC_Shortcodes::checkout('', '', 'woocommerce_che...')
+#6 [internal function]: do_sho in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php on line 98
+
+2020-01-01T13:03:36+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php:98
+Stack trace:
+#0 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(248): wc_get_template('checkout/thanky...', Array)
+#2 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(63): WC_Shortcode_Checkout::order_received(178)
+#3 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 C:\xampp\htdocs\myarabibox\wp-includes\shortcodes.php(325): WC_Shortcodes::checkout('', '', 'woocommerce_che...')
+#6 [internal function]: do_sho in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php on line 98
+
+2020-01-01T13:03:36+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php:98
+Stack trace:
+#0 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(248): wc_get_template('checkout/thanky...', Array)
+#2 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(63): WC_Shortcode_Checkout::order_received(178)
+#3 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 C:\xampp\htdocs\myarabibox\wp-includes\shortcodes.php(325): WC_Shortcodes::checkout('', '', 'woocommerce_che...')
+#6 [internal function]: do_sho in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php on line 98
+
+2020-01-01T13:03:36+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php:98
+Stack trace:
+#0 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(248): wc_get_template('checkout/thanky...', Array)
+#2 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(63): WC_Shortcode_Checkout::order_received(178)
+#3 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 C:\xampp\htdocs\myarabibox\wp-includes\shortcodes.php(325): WC_Shortcodes::checkout('', '', 'woocommerce_che...')
+#6 [internal function]: do_sho in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php on line 98
+
+2020-01-01T13:03:36+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php:98
+Stack trace:
+#0 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(248): wc_get_template('checkout/thanky...', Array)
+#2 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(63): WC_Shortcode_Checkout::order_received(178)
+#3 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 C:\xampp\htdocs\myarabibox\wp-includes\shortcodes.php(325): WC_Shortcodes::checkout('', '', 'woocommerce_che...')
+#6 [internal function]: do_sho in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php on line 98
+
+2020-01-01T13:03:36+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php:98
+Stack trace:
+#0 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(248): wc_get_template('checkout/thanky...', Array)
+#2 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(63): WC_Shortcode_Checkout::order_received(178)
+#3 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 C:\xampp\htdocs\myarabibox\wp-includes\shortcodes.php(325): WC_Shortcodes::checkout('', '', 'woocommerce_che...')
+#6 [internal function]: do_sho in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php on line 98
+
+2020-01-01T13:03:36+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php:98
+Stack trace:
+#0 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(248): wc_get_template('checkout/thanky...', Array)
+#2 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(63): WC_Shortcode_Checkout::order_received(178)
+#3 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 C:\xampp\htdocs\myarabibox\wp-includes\shortcodes.php(325): WC_Shortcodes::checkout('', '', 'woocommerce_che...')
+#6 [internal function]: do_sho in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php on line 98
+
+2020-01-01T13:03:38+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php:98
+Stack trace:
+#0 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(248): wc_get_template('checkout/thanky...', Array)
+#2 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(63): WC_Shortcode_Checkout::order_received(178)
+#3 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 C:\xampp\htdocs\myarabibox\wp-includes\shortcodes.php(325): WC_Shortcodes::checkout('', '', 'woocommerce_che...')
+#6 [internal function]: do_sho in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php on line 98
+
+2020-01-01T13:04:43+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php:98
+Stack trace:
+#0 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(248): wc_get_template('checkout/thanky...', Array)
+#2 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(63): WC_Shortcode_Checkout::order_received(178)
+#3 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 C:\xampp\htdocs\myarabibox\wp-includes\shortcodes.php(325): WC_Shortcodes::checkout('', '', 'woocommerce_che...')
+#6 [internal function]: do_sho in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php on line 98
+
+2020-01-01T13:04:43+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php:98
+Stack trace:
+#0 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(248): wc_get_template('checkout/thanky...', Array)
+#2 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(63): WC_Shortcode_Checkout::order_received(178)
+#3 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 C:\xampp\htdocs\myarabibox\wp-includes\shortcodes.php(325): WC_Shortcodes::checkout('', '', 'woocommerce_che...')
+#6 [internal function]: do_sho in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php on line 98
+
+2020-01-01T13:04:43+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php:98
+Stack trace:
+#0 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(248): wc_get_template('checkout/thanky...', Array)
+#2 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(63): WC_Shortcode_Checkout::order_received(178)
+#3 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 C:\xampp\htdocs\myarabibox\wp-includes\shortcodes.php(325): WC_Shortcodes::checkout('', '', 'woocommerce_che...')
+#6 [internal function]: do_sho in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php on line 98
+
+2020-01-01T13:04:43+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php:98
+Stack trace:
+#0 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(248): wc_get_template('checkout/thanky...', Array)
+#2 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(63): WC_Shortcode_Checkout::order_received(178)
+#3 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 C:\xampp\htdocs\myarabibox\wp-includes\shortcodes.php(325): WC_Shortcodes::checkout('', '', 'woocommerce_che...')
+#6 [internal function]: do_sho in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php on line 98
+
+2020-01-01T13:04:43+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php:98
+Stack trace:
+#0 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(248): wc_get_template('checkout/thanky...', Array)
+#2 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(63): WC_Shortcode_Checkout::order_received(178)
+#3 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 C:\xampp\htdocs\myarabibox\wp-includes\shortcodes.php(325): WC_Shortcodes::checkout('', '', 'woocommerce_che...')
+#6 [internal function]: do_sho in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php on line 98
+
+2020-01-01T13:04:43+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php:98
+Stack trace:
+#0 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(248): wc_get_template('checkout/thanky...', Array)
+#2 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(63): WC_Shortcode_Checkout::order_received(178)
+#3 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 C:\xampp\htdocs\myarabibox\wp-includes\shortcodes.php(325): WC_Shortcodes::checkout('', '', 'woocommerce_che...')
+#6 [internal function]: do_sho in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php on line 98
+
+2020-01-01T13:04:44+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php:98
+Stack trace:
+#0 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(248): wc_get_template('checkout/thanky...', Array)
+#2 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(63): WC_Shortcode_Checkout::order_received(178)
+#3 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 C:\xampp\htdocs\myarabibox\wp-includes\shortcodes.php(325): WC_Shortcodes::checkout('', '', 'woocommerce_che...')
+#6 [internal function]: do_sho in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php on line 98
+
+2020-01-01T13:34:47+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php:98
+Stack trace:
+#0 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(248): wc_get_template('checkout/thanky...', Array)
+#2 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(63): WC_Shortcode_Checkout::order_received(178)
+#3 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 C:\xampp\htdocs\myarabibox\wp-includes\shortcodes.php(325): WC_Shortcodes::checkout('', '', 'woocommerce_che...')
+#6 [internal function]: do_sho in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php on line 98
+
+2020-01-01T13:34:47+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php:98
+Stack trace:
+#0 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(248): wc_get_template('checkout/thanky...', Array)
+#2 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(63): WC_Shortcode_Checkout::order_received(178)
+#3 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 C:\xampp\htdocs\myarabibox\wp-includes\shortcodes.php(325): WC_Shortcodes::checkout('', '', 'woocommerce_che...')
+#6 [internal function]: do_sho in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php on line 98
+
+2020-01-01T13:34:47+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php:98
+Stack trace:
+#0 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(248): wc_get_template('checkout/thanky...', Array)
+#2 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(63): WC_Shortcode_Checkout::order_received(178)
+#3 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 C:\xampp\htdocs\myarabibox\wp-includes\shortcodes.php(325): WC_Shortcodes::checkout('', '', 'woocommerce_che...')
+#6 [internal function]: do_sho in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php on line 98
+
+2020-01-01T13:34:47+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php:98
+Stack trace:
+#0 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(248): wc_get_template('checkout/thanky...', Array)
+#2 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(63): WC_Shortcode_Checkout::order_received(178)
+#3 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 C:\xampp\htdocs\myarabibox\wp-includes\shortcodes.php(325): WC_Shortcodes::checkout('', '', 'woocommerce_che...')
+#6 [internal function]: do_sho in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php on line 98
+
+2020-01-01T13:34:47+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php:98
+Stack trace:
+#0 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(248): wc_get_template('checkout/thanky...', Array)
+#2 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(63): WC_Shortcode_Checkout::order_received(178)
+#3 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 C:\xampp\htdocs\myarabibox\wp-includes\shortcodes.php(325): WC_Shortcodes::checkout('', '', 'woocommerce_che...')
+#6 [internal function]: do_sho in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php on line 98
+
+2020-01-01T13:34:47+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php:98
+Stack trace:
+#0 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(248): wc_get_template('checkout/thanky...', Array)
+#2 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(63): WC_Shortcode_Checkout::order_received(178)
+#3 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 C:\xampp\htdocs\myarabibox\wp-includes\shortcodes.php(325): WC_Shortcodes::checkout('', '', 'woocommerce_che...')
+#6 [internal function]: do_sho in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php on line 98
+
+2020-01-01T13:34:48+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php:98
+Stack trace:
+#0 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(248): wc_get_template('checkout/thanky...', Array)
+#2 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(63): WC_Shortcode_Checkout::order_received(178)
+#3 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 C:\xampp\htdocs\myarabibox\wp-includes\shortcodes.php(325): WC_Shortcodes::checkout('', '', 'woocommerce_che...')
+#6 [internal function]: do_sho in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php on line 98
+
+2020-01-01T13:35:16+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php:98
+Stack trace:
+#0 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(248): wc_get_template('checkout/thanky...', Array)
+#2 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(63): WC_Shortcode_Checkout::order_received(178)
+#3 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 C:\xampp\htdocs\myarabibox\wp-includes\shortcodes.php(325): WC_Shortcodes::checkout('', '', 'woocommerce_che...')
+#6 [internal function]: do_sho in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php on line 98
+
+2020-01-01T13:35:16+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php:98
+Stack trace:
+#0 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(248): wc_get_template('checkout/thanky...', Array)
+#2 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(63): WC_Shortcode_Checkout::order_received(178)
+#3 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 C:\xampp\htdocs\myarabibox\wp-includes\shortcodes.php(325): WC_Shortcodes::checkout('', '', 'woocommerce_che...')
+#6 [internal function]: do_sho in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php on line 98
+
+2020-01-01T13:35:16+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php:98
+Stack trace:
+#0 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(248): wc_get_template('checkout/thanky...', Array)
+#2 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(63): WC_Shortcode_Checkout::order_received(178)
+#3 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 C:\xampp\htdocs\myarabibox\wp-includes\shortcodes.php(325): WC_Shortcodes::checkout('', '', 'woocommerce_che...')
+#6 [internal function]: do_sho in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php on line 98
+
+2020-01-01T13:35:16+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php:98
+Stack trace:
+#0 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(248): wc_get_template('checkout/thanky...', Array)
+#2 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(63): WC_Shortcode_Checkout::order_received(178)
+#3 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 C:\xampp\htdocs\myarabibox\wp-includes\shortcodes.php(325): WC_Shortcodes::checkout('', '', 'woocommerce_che...')
+#6 [internal function]: do_sho in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php on line 98
+
+2020-01-01T13:35:16+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php:98
+Stack trace:
+#0 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(248): wc_get_template('checkout/thanky...', Array)
+#2 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(63): WC_Shortcode_Checkout::order_received(178)
+#3 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 C:\xampp\htdocs\myarabibox\wp-includes\shortcodes.php(325): WC_Shortcodes::checkout('', '', 'woocommerce_che...')
+#6 [internal function]: do_sho in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php on line 98
+
+2020-01-01T13:35:16+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php:98
+Stack trace:
+#0 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(248): wc_get_template('checkout/thanky...', Array)
+#2 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(63): WC_Shortcode_Checkout::order_received(178)
+#3 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 C:\xampp\htdocs\myarabibox\wp-includes\shortcodes.php(325): WC_Shortcodes::checkout('', '', 'woocommerce_che...')
+#6 [internal function]: do_sho in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php on line 98
+
+2020-01-01T13:35:18+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php:98
+Stack trace:
+#0 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(248): wc_get_template('checkout/thanky...', Array)
+#2 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(63): WC_Shortcode_Checkout::order_received(178)
+#3 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 C:\xampp\htdocs\myarabibox\wp-includes\shortcodes.php(325): WC_Shortcodes::checkout('', '', 'woocommerce_che...')
+#6 [internal function]: do_sho in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php on line 98
+
+2020-01-01T13:39:24+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php:98
+Stack trace:
+#0 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(248): wc_get_template('checkout/thanky...', Array)
+#2 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(63): WC_Shortcode_Checkout::order_received(178)
+#3 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 C:\xampp\htdocs\myarabibox\wp-includes\shortcodes.php(325): WC_Shortcodes::checkout('', '', 'woocommerce_che...')
+#6 [internal function]: do_sho in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php on line 98
+
+2020-01-01T13:39:25+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php:98
+Stack trace:
+#0 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(248): wc_get_template('checkout/thanky...', Array)
+#2 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(63): WC_Shortcode_Checkout::order_received(178)
+#3 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 C:\xampp\htdocs\myarabibox\wp-includes\shortcodes.php(325): WC_Shortcodes::checkout('', '', 'woocommerce_che...')
+#6 [internal function]: do_sho in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php on line 98
+
+2020-01-01T13:39:25+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php:98
+Stack trace:
+#0 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(248): wc_get_template('checkout/thanky...', Array)
+#2 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(63): WC_Shortcode_Checkout::order_received(178)
+#3 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 C:\xampp\htdocs\myarabibox\wp-includes\shortcodes.php(325): WC_Shortcodes::checkout('', '', 'woocommerce_che...')
+#6 [internal function]: do_sho in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php on line 98
+
+2020-01-01T13:39:25+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php:98
+Stack trace:
+#0 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(248): wc_get_template('checkout/thanky...', Array)
+#2 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(63): WC_Shortcode_Checkout::order_received(178)
+#3 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 C:\xampp\htdocs\myarabibox\wp-includes\shortcodes.php(325): WC_Shortcodes::checkout('', '', 'woocommerce_che...')
+#6 [internal function]: do_sho in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php on line 98
+
+2020-01-01T13:39:25+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php:98
+Stack trace:
+#0 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(248): wc_get_template('checkout/thanky...', Array)
+#2 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(63): WC_Shortcode_Checkout::order_received(178)
+#3 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 C:\xampp\htdocs\myarabibox\wp-includes\shortcodes.php(325): WC_Shortcodes::checkout('', '', 'woocommerce_che...')
+#6 [internal function]: do_sho in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php on line 98
+
+2020-01-01T13:39:25+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php:98
+Stack trace:
+#0 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(248): wc_get_template('checkout/thanky...', Array)
+#2 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(63): WC_Shortcode_Checkout::order_received(178)
+#3 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 C:\xampp\htdocs\myarabibox\wp-includes\shortcodes.php(325): WC_Shortcodes::checkout('', '', 'woocommerce_che...')
+#6 [internal function]: do_sho in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php on line 98
+
+2020-01-01T13:39:27+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php:98
+Stack trace:
+#0 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(248): wc_get_template('checkout/thanky...', Array)
+#2 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(63): WC_Shortcode_Checkout::order_received(178)
+#3 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 C:\xampp\htdocs\myarabibox\wp-includes\shortcodes.php(325): WC_Shortcodes::checkout('', '', 'woocommerce_che...')
+#6 [internal function]: do_sho in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php on line 98
+
+2020-01-01T13:40:48+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php:98
+Stack trace:
+#0 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(248): wc_get_template('checkout/thanky...', Array)
+#2 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(63): WC_Shortcode_Checkout::order_received(178)
+#3 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 C:\xampp\htdocs\myarabibox\wp-includes\shortcodes.php(325): WC_Shortcodes::checkout('', '', 'woocommerce_che...')
+#6 [internal function]: do_sho in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php on line 98
+
+2020-01-01T13:40:48+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php:98
+Stack trace:
+#0 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(248): wc_get_template('checkout/thanky...', Array)
+#2 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(63): WC_Shortcode_Checkout::order_received(178)
+#3 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 C:\xampp\htdocs\myarabibox\wp-includes\shortcodes.php(325): WC_Shortcodes::checkout('', '', 'woocommerce_che...')
+#6 [internal function]: do_sho in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php on line 98
+
+2020-01-01T13:40:48+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php:98
+Stack trace:
+#0 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(248): wc_get_template('checkout/thanky...', Array)
+#2 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(63): WC_Shortcode_Checkout::order_received(178)
+#3 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 C:\xampp\htdocs\myarabibox\wp-includes\shortcodes.php(325): WC_Shortcodes::checkout('', '', 'woocommerce_che...')
+#6 [internal function]: do_sho in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php on line 98
+
+2020-01-01T13:40:48+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php:98
+Stack trace:
+#0 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(248): wc_get_template('checkout/thanky...', Array)
+#2 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(63): WC_Shortcode_Checkout::order_received(178)
+#3 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 C:\xampp\htdocs\myarabibox\wp-includes\shortcodes.php(325): WC_Shortcodes::checkout('', '', 'woocommerce_che...')
+#6 [internal function]: do_sho in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php on line 98
+
+2020-01-01T13:40:48+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php:98
+Stack trace:
+#0 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(248): wc_get_template('checkout/thanky...', Array)
+#2 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(63): WC_Shortcode_Checkout::order_received(178)
+#3 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 C:\xampp\htdocs\myarabibox\wp-includes\shortcodes.php(325): WC_Shortcodes::checkout('', '', 'woocommerce_che...')
+#6 [internal function]: do_sho in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php on line 98
+
+2020-01-01T13:40:48+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php:98
+Stack trace:
+#0 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(248): wc_get_template('checkout/thanky...', Array)
+#2 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(63): WC_Shortcode_Checkout::order_received(178)
+#3 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 C:\xampp\htdocs\myarabibox\wp-includes\shortcodes.php(325): WC_Shortcodes::checkout('', '', 'woocommerce_che...')
+#6 [internal function]: do_sho in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php on line 98
+
+2020-01-01T13:40:50+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php:98
+Stack trace:
+#0 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(248): wc_get_template('checkout/thanky...', Array)
+#2 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(63): WC_Shortcode_Checkout::order_received(178)
+#3 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 C:\xampp\htdocs\myarabibox\wp-includes\shortcodes.php(325): WC_Shortcodes::checkout('', '', 'woocommerce_che...')
+#6 [internal function]: do_sho in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\thankyou.php on line 98
+
+2020-01-01T15:51:19+00:00 CRITICAL Uncaught Error: Call to a member function is_registration_enabled() on null in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\form-checkout.php:27
+Stack trace:
+#0 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\myaccount\form-edit-address.php(29): wc_get_template('checkout/form-c...')
+#2 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-my-account.php(220): wc_get_template('myaccount/form-...', Array)
+#4 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\wc-template-functions.php(3103): WC_Shortcode_My_Account::edit_address('')
+#5 C:\xampp\htdocs\myarabibox\wp-includes\class-wp-hook.php(288): woocommerce_account_edit_address('')
+#6 C:\xampp\htdocs\myarabibox\wp-inc in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\form-checkout.php on line 27
+
+2020-01-01T15:51:44+00:00 CRITICAL Uncaught Error: Call to a member function is_registration_enabled() on null in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\form-checkout.php:27
+Stack trace:
+#0 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\myaccount\form-edit-address.php(29): wc_get_template('checkout/form-c...')
+#2 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-my-account.php(220): wc_get_template('myaccount/form-...', Array)
+#4 C:\xampp\htdocs\myarabibox\wp-content\plugins\woocommerce\includes\wc-template-functions.php(3103): WC_Shortcode_My_Account::edit_address('')
+#5 C:\xampp\htdocs\myarabibox\wp-includes\class-wp-hook.php(288): woocommerce_account_edit_address('')
+#6 C:\xampp\htdocs\myarabibox\wp-inc in C:\xampp\htdocs\myarabibox\wp-content\themes\MyTemplate\woocommerce\checkout\form-checkout.php on line 27
+
